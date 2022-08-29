@@ -1,8 +1,8 @@
 # NeuronPopulationsAndDecisionMaking
 
-[LIF_ALIF_AELIF.ipynb](https://github.com/AnitaSoroush/LIF_ALIF_AELIF/blob/main/LIF_ALIF_AELIF.ipynb) contains:
-* An implementation of LIF neuron model (Leaky Integrate and Fire), Adaptive LIF and Adaptive Exponential LIF from scratch.
-* An implementation of 5 different currents to be the input of our neurons.
+[NeuronPopulationsAndDecisionMaking.ipynb](https://github.com/AnitaSoroush/LIF_ALIF_AELIF/blob/main/NeuronPopulationsAndDecisionMaking.ipynb) is devided into 3 parts:
+* Part1: Conection of 2 neurons(excitatory-excitatory, excitatory-inhibitory and inhibitory-inhibitory).
+* Part2: An implementation of 5 different currents to be the input of our neurons.
 * An implementation of Line graphs that represent **membrane potential** of each neuron when exposed to each input current.
 * An implementation of Line graphs that represent the **frequency of firing** of each neuron when exposed to each input current.
 
