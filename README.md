@@ -1,4 +1,4 @@
-# NeuronPopulationsAndDecisionMaking
+# NeuralPopulationsAndDecisionMaking
 
 [NeuralPopulationsAndDecisionMaking.ipynb](https://github.com/AnitaSoroush/NeuralPopulationsAndDecisionMaking/blob/main/NeuralPopulationsAndDecisionMaking.ipynb) is devided into 3 parts:
 * Part1: Conection of 2 neurons(excitatory-excitatory, excitatory-inhibitory and inhibitory-inhibitory).
