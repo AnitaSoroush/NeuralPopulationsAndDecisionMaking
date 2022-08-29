@@ -10,4 +10,5 @@
 * The results of the project.
 
 [previous project of computatuinal Neuroscience](https://github.com/AnitaSoroush/LIF_ALIF_AELIF)
+
 [next project of computatuinal Neuroscience](https://github.com/AnitaSoroush/LearningProcess)
